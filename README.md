@@ -65,6 +65,29 @@ We gratefully acknowledge the organizations and individuals who have made signif
 
 Welcome to one of the most comprehensive and dynamic collections of Retrieval-Augmented Generation (RAG) tutorials available today. This repository serves as a hub for cutting-edge techniques aimed at enhancing the accuracy, efficiency, and contextual richness of RAG systems.
 
+---
+
+## 📌 My Learning & Experiments (Fork Note)
+
+This repository is forked from **Nir Diamant’s RAG_Techniques** for the purpose of
+**hands-on learning, experimentation, and practical understanding of advanced RAG architectures**.
+
+### What I did:
+- Ran and modified multiple notebooks locally and on Google Colab
+- Experimented with multi-modal retrieval (PDF + images)
+- Enhanced visualization and inspection of retrieval outputs
+- Added selected output screenshots after notebook cell execution for clarity
+- Refactored and optimized parts of the code to improve results and efficiency
+
+### Key Learnings:
+- Differences between Agentic RAG and traditional RAG pipelines
+- How retrieval metadata and grounding signals are surfaced
+- Handling multi-page PDFs vs image-based documents
+- Practical challenges in scaling and debugging production-style RAG systems
+
+> ⚠️ All core architectures and original implementations are credited to the original author.  
+> This fork reflects my personal learning, experimentation, and documentation process.
+
 ## 📫 Stay Updated!
 
 <div align="center">
